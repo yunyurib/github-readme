@@ -14,7 +14,7 @@
      : ~~"Getting Started with Create" 오늘 날씨에 대한 스킨과 다양한 폰트로 자기만의 다꾸 *(다이어리 꾸미기)* App.~~ 
     - [__Plugin__](https://github.com/xururuca9797/plugin)  
      : 다양한 스크롤 효과와 메뉴의 플러그인
-    - [__Mashup__](https://github.com/xururuca9797/mashup)  
+    - [__Mashup__](https://github.com/xururuca9797/mashup.club)  
      : 스트릿 스타일의 기반으로 여러분야의 사람들이 모여 스토리있는 룩북을 작업하는 크루 소개 사이트.
 
 - ###  __MARKUP__
