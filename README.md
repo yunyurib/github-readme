@@ -1,34 +1,26 @@
-# Yurim.dev 🙋‍♀️
-> 안녕하세요!FE 개발자 윤유림입니다.
+# MY GITHUB README &#128570;
+>Information describing Yurim's GitHub!
 
-😊 저는 웹 개발에 관심이 많습니다. <br/>
-💻 다양한 환경의 프로젝트와 라이브러리 경험을 통한 다양한 것들을 개발하는 걸 좋아합니다. <br/>
-⚡ 모든 프로젝트를 깃허브를 활용해 관리하며 작업하였습니다. <br/>
-✨ 원활한 협업과 동료의 의견을 존중하는 태도로 재미있고 유용한 개발을 하고싶습니다. <br/>
-🙆‍♀️ 코드리뷰에 임하여 다양한 의견을 듣는 것에 두려움이 없습니다 <br/>
+- ### __POJECT__
+    -  [__Yurim-world__](https://github.com/xururuca9797/yurim-world)  
+     : 저의 소개와 경력기술, 프로젝트 정보를 볼 수 있는 포트폴리오 웹 입니다.
+    - [__RacingRacing__](https://github.com/xururuca9797/RacingRacing)  &#128679;  
+     : ~~마우스 클릭을 이용한 재미있고 멋진 토기와 거북이 달리기 게임입니다.~~
+    - [__Fokin-weather__](https://github.com/xururuca9797/fokin-weather)  &#128679;  
+     : ~~React Native를 활용한 날씨 어플리케이션 입니다.~~
+    - [__Hiyw__](https://github.com/xururuca9797/hiyw)  &#128679;  
+     : ~~"Getting Started with Create" 오늘 날씨에 대한 스킨과 다양한 폰트로 자기만의 다꾸 *(다이어리 꾸미기)* App.~~ 
+    - [__Plugin__](https://github.com/xururuca9797/plugin)  
+     : 다양한 스크롤 효과와 메뉴의 플러그인
+    - [__Mashup__](https://github.com/xururuca9797/mashup.club)  
+     : 스트릿 스타일의 기반으로 여러분야의 사람들이 모여 스토리있는 룩북을 작업하는 크루 소개 사이트.
 
-## Page
-[__Main__](https://github.com/xururuca9797/yurim-world) : 간단한 소개, 경력기술, 활동, 교육, 자격증 등 <br/>
-[__Career__](https://xururuca9797.github.io/yurim.dev/career) : 세부 경력기술서 <br/>
--  [chopiee](www.chopiee.com)  <br/>
-: 10-20대 여성을 타겟팅한 러블리한 무드의 온라인 멀티샵.
--  [wvproject](www.wvproject.co.kr) <br/>
-: 다양한 모티브로 재해석해 패션으로 풀어내는 브랜드.
--  [fairplay](www.fairplay142.com)<br/>
- : 20-30대 남성을 타겟팅한 스트릿패션 멀티샵.
--  [jemutshop](www.jemutshop.com)<br/>
-: 좋은 품질의 이지 캐주얼을 선보이는 남성 브랜드.
-
-[__Portfolio__](https://xururuca9797.github.io/yurim.dev/portfolio) : 경력을 제외한 웹 포트폴리오 <br/>
-[__Contact__](https://xururuca9797.github.io/yurim.dev/Contact) : 연락하기 <br/>
-
-
-## Skil 📃
-- HTML5, CSS3
-- Javascript
-- React.js
-- Styled-components
-- Route
-
-## Links
--  Link : [__View__](https://xururuca9797.github.io/yurim.dev/)
+     - ###  __MARKUP__
+    - [__Eggslut__](https://github.com/xururuca9797/eggslut)  
+     : 에그슬럿 코리아. 원페이지의 구현과 반응형 리뉴얼 페이지.
+    - [__Korail_PJ__](https://github.com/xururuca9797/korail_PJ)  
+     : 코레일 디자인 개선 리뉴얼 페이지.
+    - [__Kokoa-clone__](https://github.com/xururuca9797/kokoa-clone)  
+     : 카카오톡 채팅 기능의 마크업 모바일 페이지.
+    - [__Naver.m__](https://github.com/xururuca9797/naver.m)  
+     : 네이버 모바일. 기존의 네이버 모바일 페이지 반응형 마크업 페이지.
