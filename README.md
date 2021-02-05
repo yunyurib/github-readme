@@ -4,16 +4,14 @@
 - ### __POJECT__
     -  [__Yurim-world__](https://github.com/xururuca9797/yurim-world)  
      : 저의 소개와 경력기술, 프로젝트 정보를 볼 수 있는 포트폴리오 웹 입니다.
-    - [__RacingRacing__](https://github.com/xururuca9797/RacingRacing)  &#128679;  
-     : ~~마우스 클릭을 이용한 재미있고 멋진 토기와 거북이 달리기 게임입니다.~~
-    - [__Fokin-weather__](https://github.com/xururuca9797/fokin-weather)  &#128679;  
-     : ~~React Native를 활용한 날씨 어플리케이션 입니다.~~
-    - [__Hiyw__](https://github.com/xururuca9797/hiyw)  &#128679;  
-     : ~~"Getting Started with Create" 오늘 날씨에 대한 스킨과 다양한 폰트로 자기만의 다꾸 *(다이어리 꾸미기)* App.~~ 
-    - [__Plugin__](https://github.com/xururuca9797/plugin)  
-     : 다양한 스크롤 효과와 메뉴의 플러그인
+    - [__Login_api__](https://github.com/xururuca9797/login_api)  
+     : 로그인 API를 사용한 마크업 페이지.
     - [__Mashup__](https://github.com/xururuca9797/mashup.club)  
      : 스트릿 스타일의 기반으로 여러분야의 사람들이 모여 스토리있는 룩북을 작업하는 크루 소개 사이트.
+    - [__Musinsa__](https://github.com/xururuca9797/musinsa_ui/blob/main/README.md)  
+     : 무신사 사이트의 상품목록, 쇼케이스 부분을 마크업 페이지.
+    - [__Plugin__](https://github.com/xururuca9797/plugin)  
+     : 다양한 스크롤 효과와 메뉴의 플러그인
 
      - ###  __MARKUP__
     - [__Eggslut__](https://github.com/xururuca9797/eggslut)  
