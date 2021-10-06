@@ -10,8 +10,6 @@
      : 스트릿 스타일의 기반으로 여러분야의 사람들이 모여 스토리있는 룩북을 작업하는 크루 소개 사이트.
     - [__Musinsa__](https://github.com/yunyurib/musinsa_ui/blob/main/README.md)  
      : 무신사 사이트의 상품목록, 쇼케이스 부분을 마크업 페이지.
-    - [__Plugin__](https://github.com/yunyurib/plugin)  
-     : 다양한 스크롤 효과와 메뉴의 플러그인
 
      - ###  __MARKUP__
     - [__Eggslut__](https://github.com/yunyurib/eggslut)  
