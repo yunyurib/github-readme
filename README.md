@@ -2,7 +2,7 @@
 >Information describing Yurim's GitHub!
 
 - ### __POJECT__
-    -  [__urim.dev__](https://github.com/yunyurib/yurim.dev)  
+    -  [__yurim.dev__](https://github.com/yunyurib/yurim.dev)  
      : 저의 소개와 경력기술, 프로젝트 정보를 볼 수 있는 포트폴리오 웹 입니다.
     - [__Login_api__](https://github.com/yunyurib/login_api)  
      : 로그인 API를 사용한 마크업 페이지.
