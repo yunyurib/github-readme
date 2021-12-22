@@ -14,8 +14,6 @@
      - ###  __MARKUP__
     - [__Eggslut__](https://github.com/yunyurib/eggslut)  
      : 에그슬럿 코리아. 원페이지의 구현과 반응형 리뉴얼 페이지.
-    - [__Korail_PJ__](https://github.com/yunyurib/korail_PJ)  
-     : 코레일 디자인 개선 리뉴얼 페이지.
     - [__Kokoa-clone__](https://github.com/yunyurib/kokoa-clone)  
      : 카카오톡 채팅 기능의 마크업 모바일 페이지.
     - [__Naver.m__](https://github.com/yunyurib/naver.m)  
